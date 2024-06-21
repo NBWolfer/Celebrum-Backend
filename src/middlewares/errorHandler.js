@@ -18,6 +18,7 @@ function errorHandler(err, req, res, next) {
         message: message,  // Basit bir hata mesajı döndür
         stack: process.env.NODE_ENV === 'development' ? err.stack : '🥞' // Geliştirme ortamında hata stack'ini göster
     });
+    next();
 }
 
 module.exports = errorHandler;
