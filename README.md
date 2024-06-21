@@ -18,7 +18,7 @@ Projeyi çalıştırmadan önce sisteminizde aşağıdaki yazılımların kurulu
     Projeyi yerel bilgisayarınıza klonlamak için aşağıdaki komutu terminalinize yapıştırın:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/NBWolfer/Celebrum-Backend.git
     cd your-repo-name
     ```
 
