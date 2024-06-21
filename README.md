@@ -19,7 +19,7 @@ Projeyi çalıştırmadan önce sisteminizde aşağıdaki yazılımların kurulu
 
     ```bash
     git clone https://github.com/NBWolfer/Celebrum-Backend.git
-    cd your-repo-name
+    cd Celebrum-Backend
     ```
 
 2. **Bağımlılıkları Yükleyin**
