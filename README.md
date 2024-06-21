@@ -12,7 +12,7 @@ Projeyi çalıştırmadan önce sisteminizde aşağıdaki yazılımların kurulu
 - Node.js - [Node.js resmi web sitesinden](https://nodejs.org/) en son sürümü indirip kurabilirsiniz.
 - MongoDB - [MongoDB'nin resmi web sitesinden](https://www.mongodb.com/try/download/community) MongoDB Community Server'ı indirip kurabilirsiniz. MongoDB'yi yerel olarak çalıştırabilir veya bir MongoDB hizmeti(API anahtarını `server.js` içerisinde kullanarak ilgili değişikliği yapıp) kullanabilirsiniz.
 
-* Yerel olarak MongoDB çalıştırmak için `.env` dosyası içerisindeki `MONGO_URI` değişkeninin, MongoDB Compass uygulamasındaki URI ile aynı olduğundan emin olun.
+Not: Yerel olarak MongoDB çalıştırmak için `.env` dosyası içerisindeki `MONGO_URI` değişkeninin, MongoDB Compass uygulamasındaki URI ile aynı olduğundan emin olun.
 
 ### Projeyi Kurma
 
