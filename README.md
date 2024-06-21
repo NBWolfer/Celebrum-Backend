@@ -1,3 +1,6 @@
+# Celebrum Backend - Case Study
+Bu projede katmanlı bir mimari ile ölçeklenebilir ve yeniden kullanılabilir bir yapı oluşturulmuştur. Bu yapı, istenilen özelliklerin modüler yapı sayesinde kolaylıkla eklenip çıkarılabilmesini sağlamaktadır.
+
 ## Kurulum
 
 Bu bölüm, projeyi yerel geliştirme ortamınızda nasıl kurabileceğinizi adım adım açıklar. Projeyi çalıştırmadan önce, gerekli olan tüm dış bağımlılıkların kurulu olduğundan emin olun.
