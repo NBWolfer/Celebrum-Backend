@@ -20,7 +20,7 @@ exports.createPost = async (req, res) => {
 exports.getAllPosts = async (req, res) => {
   try {
     const posts = await postService.getAllPosts();
-    res.status(200).json(posts);
+    res.status().json(posts);
   } catch (error) {
     if (error.message === 'Posts not found') {
       return res.status(404).json({ message: error.message });
