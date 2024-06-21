@@ -1,6 +1,8 @@
 # Celebrum Backend - Case Study
 Bu projede katmanlı bir mimari ile ölçeklenebilir ve yeniden kullanılabilir bir yapı oluşturulmuştur. Bu yapı, istenilen özelliklerin modüler yapı sayesinde kolaylıkla eklenip çıkarılabilmesini sağlamaktadır.
 
+Nispeten küçük bir API projesi olduğu için Node.js-Express-MongoDB kullanmayı tercih ettim. Öte yandan, az sayıda ve çok karmaşık olmayan varlık ilişkilerinden dolayı MongoDB hızlı bir çözüm sağladı.
+
 Demo Linki: [Demo - Youtube](https://www.youtube.com/watch?v=PeHNiP-zydg) 
 
 ## Kurulum
